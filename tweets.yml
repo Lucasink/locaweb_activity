@@ -1,0 +1,1103 @@
+---
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Sat Nov 12 23:06:08 +0000 2016
+    :id: 797576237959053313
+    :id_str: '797576237959053313'
+    :text: já recebi da @locaweb e do @cafe_santaclara &lt;3 sdds ser blogueira. https://t.co/BkSLphJ4sd
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions:
+      - :screen_name: locaweb
+        :name: Locaweb
+        :id: 15020362
+        :id_str: '15020362'
+        :indices:
+        - 13
+        - 21
+      - :screen_name: cafe_santaclara
+        :name: Café Santa Clara
+        :id: 248706761
+        :id_str: '248706761'
+        :indices:
+        - 27
+        - 43
+      :urls:
+      - :url: https://t.co/BkSLphJ4sd
+        :expanded_url: https://twitter.com/OiiMeninas/status/797574495284371457
+        :display_url: twitter.com/OiiMeninas/sta…
+        :indices:
+        - 70
+        - 93
+    :metadata:
+      :iso_language_code: pt
+      :result_type: recent
+    :source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 1967779789
+      :id_str: '1967779789'
+      :name: rafa
+      :screen_name: r2afa
+      :location: recife, br
+      :description: me alimento de códigos e cerveja.
+      :url: https://t.co/p1N7R1UJyo
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/p1N7R1UJyo
+            :expanded_url: http://rafaramos.com/
+            :display_url: rafaramos.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 1083
+      :friends_count: 352
+      :listed_count: 11
+      :created_at: Thu Oct 17 23:13:39 +0000 2013
+      :favourites_count: 6028
+      :utc_offset: -7200
+      :time_zone: Brasilia
+      :geo_enabled: true
+      :verified: false
+      :statuses_count: 158
+      :lang: pt
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: true
+      :profile_background_color: FDFAFF
+      :profile_background_image_url: http://pbs.twimg.com/profile_background_images/451151213635964929/PyZPfPA6.jpeg
+      :profile_background_image_url_https: https://pbs.twimg.com/profile_background_images/451151213635964929/PyZPfPA6.jpeg
+      :profile_background_tile: true
+      :profile_image_url: http://pbs.twimg.com/profile_images/790004508462022656/RBRM_BZj_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/790004508462022656/RBRM_BZj_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/1967779789/1461852781
+      :profile_link_color: 0363B0
+      :profile_sidebar_border_color: FFFFFF
+      :profile_sidebar_fill_color: DDEEF6
+      :profile_text_color: '333333'
+      :profile_use_background_image: false
+      :has_extended_profile: true
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: true
+    :quoted_status_id: 797574495284371457
+    :quoted_status_id_str: '797574495284371457'
+    :quoted_status:
+      :created_at: Sat Nov 12 22:59:12 +0000 2016
+      :id: 797574495284371457
+      :id_str: '797574495284371457'
+      :text: sexo é bom mas vocês já receberam mimos?
+      :truncated: false
+      :entities:
+        :hashtags: []
+        :symbols: []
+        :user_mentions: []
+        :urls: []
+      :metadata:
+        :iso_language_code: pt
+        :result_type: recent
+      :source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter
+        for Android</a>
+      :in_reply_to_status_id: 
+      :in_reply_to_status_id_str: 
+      :in_reply_to_user_id: 
+      :in_reply_to_user_id_str: 
+      :in_reply_to_screen_name: 
+      :user:
+        :id: 715877538883584000
+        :id_str: '715877538883584000'
+        :name: blogueira
+        :screen_name: OiiMeninas
+        :location: ''
+        :description: oi meninas no vídeo de hoje vou falar sobre como é difícil a
+          vida de blogueira e deixem o like no vídeo
+        :url: 
+        :entities:
+          :description:
+            :urls: []
+        :protected: false
+        :followers_count: 11359
+        :friends_count: 9
+        :listed_count: 6
+        :created_at: Fri Apr 01 12:24:40 +0000 2016
+        :favourites_count: 9
+        :utc_offset: 
+        :time_zone: 
+        :geo_enabled: false
+        :verified: false
+        :statuses_count: 15
+        :lang: pt
+        :contributors_enabled: false
+        :is_translator: false
+        :is_translation_enabled: false
+        :profile_background_color: F5F8FA
+        :profile_background_image_url: 
+        :profile_background_image_url_https: 
+        :profile_background_tile: false
+        :profile_image_url: http://pbs.twimg.com/profile_images/795999250375122944/_Zdff2wp_normal.jpg
+        :profile_image_url_https: https://pbs.twimg.com/profile_images/795999250375122944/_Zdff2wp_normal.jpg
+        :profile_link_color: 1DA1F2
+        :profile_sidebar_border_color: C0DEED
+        :profile_sidebar_fill_color: DDEEF6
+        :profile_text_color: '333333'
+        :profile_use_background_image: true
+        :has_extended_profile: false
+        :default_profile: true
+        :default_profile_image: false
+        :following: false
+        :follow_request_sent: false
+        :notifications: false
+        :translator_type: none
+      :geo: 
+      :coordinates: 
+      :place: 
+      :contributors: 
+      :is_quote_status: false
+      :retweet_count: 135
+      :favorite_count: 118
+      :favorited: false
+      :retweeted: false
+      :lang: pt
+    :retweet_count: 0
+    :favorite_count: 0
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: pt
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Sat Nov 12 02:44:56 +0000 2016
+    :id: 797268914774409216
+    :id_str: '797268914774409216'
+    :text: "@phsilbr @locaweb e eu que não ganho nada? Tô vendo isso aí... :-/"
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions:
+      - :screen_name: phsilbr
+        :name: 'snap: phsil'
+        :id: 34663381
+        :id_str: '34663381'
+        :indices:
+        - 0
+        - 8
+      - :screen_name: locaweb
+        :name: Locaweb
+        :id: 15020362
+        :id_str: '15020362'
+        :indices:
+        - 9
+        - 17
+      :urls: []
+    :metadata:
+      :iso_language_code: pt
+      :result_type: recent
+    :source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for
+      iPhone</a>
+    :in_reply_to_status_id: 797181999278686208
+    :in_reply_to_status_id_str: '797181999278686208'
+    :in_reply_to_user_id: 34663381
+    :in_reply_to_user_id_str: '34663381'
+    :in_reply_to_screen_name: phsilbr
+    :user:
+      :id: 4375
+      :id_str: '4375'
+      :name: Diego Eis
+      :screen_name: diegoeis
+      :location: São Paulo
+      :description: Disperso. https://t.co/qWl8De8djR
+      :url: https://t.co/MArkqKZofO
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/MArkqKZofO
+            :expanded_url: https://diegoeis.com
+            :display_url: diegoeis.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls:
+          - :url: https://t.co/qWl8De8djR
+            :expanded_url: http://diegoeis.com/
+            :display_url: diegoeis.com
+            :indices:
+            - 10
+            - 33
+      :protected: false
+      :followers_count: 8225
+      :friends_count: 103
+      :listed_count: 317
+      :created_at: Tue Aug 15 12:14:38 +0000 2006
+      :favourites_count: 662
+      :utc_offset: -7200
+      :time_zone: Brasilia
+      :geo_enabled: true
+      :verified: false
+      :statuses_count: 26437
+      :lang: en
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: '000000'
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/570009494805946368/dfEcOkau_normal.jpeg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/570009494805946368/dfEcOkau_normal.jpeg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/4375/1422979136
+      :profile_link_color: 1B95E0
+      :profile_sidebar_border_color: '000000'
+      :profile_sidebar_fill_color: '000000'
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: true
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: regular
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 0
+    :favorite_count: 1
+    :favorited: false
+    :retweeted: false
+    :lang: pt
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Fri Nov 11 22:46:51 +0000 2016
+    :id: 797208999594786816
+    :id_str: '797208999594786816'
+    :text: 'Chegou! @CCXPoficial me espera que eu vou! #comiccon #comiccon2016 #CCXP
+      Obrigado @locaweb pela… https://t.co/oEx232Uikv'
+    :truncated: false
+    :entities:
+      :hashtags:
+      - :text: comiccon
+        :indices:
+        - 43
+        - 52
+      - :text: comiccon2016
+        :indices:
+        - 53
+        - 66
+      - :text: CCXP
+        :indices:
+        - 67
+        - 72
+      :symbols: []
+      :user_mentions:
+      - :screen_name: CCXPoficial
+        :name: Comic Con Experience
+        :id: 2311913840
+        :id_str: '2311913840'
+        :indices:
+        - 8
+        - 20
+      - :screen_name: locaweb
+        :name: Locaweb
+        :id: 15020362
+        :id_str: '15020362'
+        :indices:
+        - 82
+        - 90
+      :urls:
+      - :url: https://t.co/oEx232Uikv
+        :expanded_url: https://www.instagram.com/p/BMr-i0bjcIR/
+        :display_url: instagram.com/p/BMr-i0bjcIR/
+        :indices:
+        - 97
+        - 120
+    :metadata:
+      :iso_language_code: pt
+      :result_type: recent
+    :source: <a href="http://instagram.com" rel="nofollow">Instagram</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 63609402
+      :id_str: '63609402'
+      :name: eden pereira
+      :screen_name: edenjp
+      :location: Brasil
+      :description: tio
+      :url: 
+      :entities:
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 162
+      :friends_count: 398
+      :listed_count: 12
+      :created_at: Fri Aug 07 02:06:58 +0000 2009
+      :favourites_count: 21
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 911
+      :lang: en
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: '000000'
+      :profile_background_image_url: http://pbs.twimg.com/profile_background_images/789058633/c5613eda0e338596f238c4cb28577531.jpeg
+      :profile_background_image_url_https: https://pbs.twimg.com/profile_background_images/789058633/c5613eda0e338596f238c4cb28577531.jpeg
+      :profile_background_tile: true
+      :profile_image_url: http://pbs.twimg.com/profile_images/429789291770699776/JhB-dSe__normal.jpeg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/429789291770699776/JhB-dSe__normal.jpeg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/63609402/1391304799
+      :profile_link_color: 009999
+      :profile_sidebar_border_color: '000000'
+      :profile_sidebar_fill_color: DDEEF6
+      :profile_text_color: '333333'
+      :profile_use_background_image: true
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 0
+    :favorite_count: 1
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: pt
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Fri Nov 11 20:59:34 +0000 2016
+    :id: 797181999278686208
+    :id_str: '797181999278686208'
+    :text: "@locaweb sua linda \U0001F601 Obrigado por isso! #comiccon #ccxp2016 #euvou
+      https://t.co/Da2xdW2kBr"
+    :truncated: false
+    :entities:
+      :hashtags:
+      - :text: comiccon
+        :indices:
+        - 40
+        - 49
+      - :text: ccxp2016
+        :indices:
+        - 50
+        - 59
+      - :text: euvou
+        :indices:
+        - 60
+        - 66
+      :symbols: []
+      :user_mentions:
+      - :screen_name: locaweb
+        :name: Locaweb
+        :id: 15020362
+        :id_str: '15020362'
+        :indices:
+        - 0
+        - 8
+      :urls:
+      - :url: https://t.co/Da2xdW2kBr
+        :expanded_url: https://www.instagram.com/p/BMryRDrACmY/
+        :display_url: instagram.com/p/BMryRDrACmY/
+        :indices:
+        - 67
+        - 90
+    :metadata:
+      :iso_language_code: pt
+      :result_type: recent
+    :source: <a href="http://instagram.com" rel="nofollow">Instagram</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 15020362
+    :in_reply_to_user_id_str: '15020362'
+    :in_reply_to_screen_name: locaweb
+    :user:
+      :id: 34663381
+      :id_str: '34663381'
+      :name: 'snap: phsil'
+      :screen_name: phsilbr
+      :location: Sao Paulo, Brazil
+      :description: 'Dreamer and creator. Software engineer at @locaweb! #ruby'
+      :url: 
+      :entities:
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 946
+      :friends_count: 169
+      :listed_count: 155
+      :created_at: Thu Apr 23 16:53:19 +0000 2009
+      :favourites_count: 839
+      :utc_offset: -7200
+      :time_zone: Brasilia
+      :geo_enabled: true
+      :verified: false
+      :statuses_count: 14415
+      :lang: en
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://pbs.twimg.com/profile_background_images/452230157755883520/XWjPefS1.jpeg
+      :profile_background_image_url_https: https://pbs.twimg.com/profile_background_images/452230157755883520/XWjPefS1.jpeg
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/774078206865309701/833k2zR6_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/774078206865309701/833k2zR6_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/34663381/1468461839
+      :profile_link_color: 6D7274
+      :profile_sidebar_border_color: '000000'
+      :profile_sidebar_fill_color: '000000'
+      :profile_text_color: 504E4E
+      :profile_use_background_image: false
+      :has_extended_profile: true
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 0
+    :favorite_count: 0
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: pt
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Fri Nov 11 11:53:49 +0000 2016
+    :id: 797044658400595968
+    :id_str: '797044658400595968'
+    :text: "@locaweb @locaweb_ajuda  me ajuda aê"
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions:
+      - :screen_name: locaweb
+        :name: Locaweb
+        :id: 15020362
+        :id_str: '15020362'
+        :indices:
+        - 0
+        - 8
+      - :screen_name: locaweb_ajuda
+        :name: Locaweb Ajuda
+        :id: 17816860
+        :id_str: '17816860'
+        :indices:
+        - 9
+        - 23
+      :urls: []
+    :metadata:
+      :iso_language_code: pt
+      :result_type: recent
+    :source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+    :in_reply_to_status_id: 797043712320749568
+    :in_reply_to_status_id_str: '797043712320749568'
+    :in_reply_to_user_id: 2431830119
+    :in_reply_to_user_id_str: '2431830119'
+    :in_reply_to_screen_name: gabrielmamuts
+    :user:
+      :id: 2431830119
+      :id_str: '2431830119'
+      :name: mamute
+      :screen_name: gabrielmamuts
+      :location: ''
+      :description: |-
+        Sorte nos negócios, azar no amor
+
+
+
+        Co-founder Plugue/Embaixador Educação Livre
+      :url: https://t.co/gQiPsD3Hyn
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/gQiPsD3Hyn
+            :expanded_url: http://educacaolivre.org.br
+            :display_url: educacaolivre.org.br
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 397
+      :friends_count: 652
+      :listed_count: 1
+      :created_at: Sun Mar 23 20:45:15 +0000 2014
+      :favourites_count: 3668
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: true
+      :verified: false
+      :statuses_count: 4697
+      :lang: pt
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: '000000'
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/795412334042877952/a1GqQZNs_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/795412334042877952/a1GqQZNs_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/2431830119/1477482620
+      :profile_link_color: 94D487
+      :profile_sidebar_border_color: '000000'
+      :profile_sidebar_fill_color: '000000'
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: true
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 0
+    :favorite_count: 0
+    :favorited: false
+    :retweeted: false
+    :lang: pt
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Fri Nov 11 11:50:04 +0000 2016
+    :id: 797043712320749568
+    :id_str: '797043712320749568'
+    :text: "@locaweb  ou Google Cloud. Essa é a dúvida para hospedar o Plugue"
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions:
+      - :screen_name: locaweb
+        :name: Locaweb
+        :id: 15020362
+        :id_str: '15020362'
+        :indices:
+        - 0
+        - 8
+      :urls: []
+    :metadata:
+      :iso_language_code: pt
+      :result_type: recent
+    :source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 15020362
+    :in_reply_to_user_id_str: '15020362'
+    :in_reply_to_screen_name: locaweb
+    :user:
+      :id: 2431830119
+      :id_str: '2431830119'
+      :name: mamute
+      :screen_name: gabrielmamuts
+      :location: ''
+      :description: |-
+        Sorte nos negócios, azar no amor
+
+
+
+        Co-founder Plugue/Embaixador Educação Livre
+      :url: https://t.co/gQiPsD3Hyn
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/gQiPsD3Hyn
+            :expanded_url: http://educacaolivre.org.br
+            :display_url: educacaolivre.org.br
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 397
+      :friends_count: 652
+      :listed_count: 1
+      :created_at: Sun Mar 23 20:45:15 +0000 2014
+      :favourites_count: 3668
+      :utc_offset: 
+      :time_zone: 
+      :geo_enabled: true
+      :verified: false
+      :statuses_count: 4697
+      :lang: pt
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: '000000'
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/795412334042877952/a1GqQZNs_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/795412334042877952/a1GqQZNs_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/2431830119/1477482620
+      :profile_link_color: 94D487
+      :profile_sidebar_border_color: '000000'
+      :profile_sidebar_fill_color: '000000'
+      :profile_text_color: '000000'
+      :profile_use_background_image: false
+      :has_extended_profile: true
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 0
+    :favorite_count: 0
+    :favorited: false
+    :retweeted: false
+    :lang: pt
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Fri Nov 11 11:37:47 +0000 2016
+    :id: 797040621148110849
+    :id_str: '797040621148110849'
+    :text: E lá vem a @locaweb travando novamente. Mas dessa vez, nem o próprio Wiki
+      deles abre.
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions:
+      - :screen_name: locaweb
+        :name: Locaweb
+        :id: 15020362
+        :id_str: '15020362'
+        :indices:
+        - 11
+        - 19
+      :urls: []
+    :metadata:
+      :iso_language_code: pt
+      :result_type: recent
+    :source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 73526960
+      :id_str: '73526960'
+      :name: Maykel Esser
+      :screen_name: maykelesser
+      :location: Curitiba - Brazil
+      :description: Pseudo-producer, webdesigner, vocals on Horseshoe Hysteria, former
+        Brokken and drummer on Estação Zero Grau.
+      :url: https://t.co/aePwzLUYmu
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/aePwzLUYmu
+            :expanded_url: https://www.facebook.com/maykel.esser
+            :display_url: facebook.com/maykel.esser
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 381
+      :friends_count: 711
+      :listed_count: 8
+      :created_at: Sat Sep 12 00:30:30 +0000 2009
+      :favourites_count: 995
+      :utc_offset: -7200
+      :time_zone: Brasilia
+      :geo_enabled: true
+      :verified: false
+      :statuses_count: 8484
+      :lang: pt
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: FFFFFF
+      :profile_background_image_url: http://pbs.twimg.com/profile_background_images/378800000174636265/0I2RqRLM.png
+      :profile_background_image_url_https: https://pbs.twimg.com/profile_background_images/378800000174636265/0I2RqRLM.png
+      :profile_background_tile: true
+      :profile_image_url: http://pbs.twimg.com/profile_images/676189124186021888/K_YrO9W1_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/676189124186021888/K_YrO9W1_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/73526960/1437049325
+      :profile_link_color: EBA100
+      :profile_sidebar_border_color: FFFFFF
+      :profile_sidebar_fill_color: '000000'
+      :profile_text_color: FFFFFF
+      :profile_use_background_image: true
+      :has_extended_profile: true
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 0
+    :favorite_count: 0
+    :favorited: false
+    :retweeted: false
+    :lang: pt
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Fri Nov 11 11:12:02 +0000 2016
+    :id: 797034142768701440
+    :id_str: '797034142768701440'
+    :text: "@eualbertpaixao @terra_ajuda @locaweb obrigada pela indicação! Desconfio
+      que até o demônio deve atender melhor que o Terra!"
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions:
+      - :screen_name: eualbertpaixao
+        :name: Albert Paixão
+        :id: 164515206
+        :id_str: '164515206'
+        :indices:
+        - 0
+        - 15
+      - :screen_name: terra_ajuda
+        :name: Terra Ajuda
+        :id: 472175891
+        :id_str: '472175891'
+        :indices:
+        - 16
+        - 28
+      - :screen_name: locaweb
+        :name: Locaweb
+        :id: 15020362
+        :id_str: '15020362'
+        :indices:
+        - 29
+        - 37
+      :urls: []
+    :metadata:
+      :iso_language_code: pt
+      :result_type: recent
+    :source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+    :in_reply_to_status_id: 797033828053385217
+    :in_reply_to_status_id_str: '797033828053385217'
+    :in_reply_to_user_id: 164515206
+    :in_reply_to_user_id_str: '164515206'
+    :in_reply_to_screen_name: eualbertpaixao
+    :user:
+      :id: 215418222
+      :id_str: '215418222'
+      :name: "Ariana da Silva \U0001F451"
+      :screen_name: gabibarbozag
+      :location: Porto Alegre - RS
+      :description: Fugi dum manicômio em Minas e corri pra POA pq aqui é chei das
+        livraria e tem carne à rivilia. Sou Cruzeiro, Inter e Mengão. Faixa preta
+        em ironia.
+      :url: https://t.co/FjkTB09r8w
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/FjkTB09r8w
+            :expanded_url: http://gabibarboza.com/
+            :display_url: gabibarboza.com
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 1662
+      :friends_count: 622
+      :listed_count: 5
+      :created_at: Sat Nov 13 21:54:46 +0000 2010
+      :favourites_count: 5893
+      :utc_offset: -7200
+      :time_zone: Brasilia
+      :geo_enabled: true
+      :verified: false
+      :statuses_count: 23869
+      :lang: pt
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: AD2D6B
+      :profile_background_image_url: http://pbs.twimg.com/profile_background_images/553599079494582272/43-GbPhl.jpeg
+      :profile_background_image_url_https: https://pbs.twimg.com/profile_background_images/553599079494582272/43-GbPhl.jpeg
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/791708784561381377/l80op78F_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/791708784561381377/l80op78F_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/215418222/1476813481
+      :profile_link_color: E8177C
+      :profile_sidebar_border_color: FFFFFF
+      :profile_sidebar_fill_color: 673E51
+      :profile_text_color: 02D39A
+      :profile_use_background_image: true
+      :has_extended_profile: true
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 0
+    :favorite_count: 1
+    :favorited: false
+    :retweeted: false
+    :lang: pt
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Fri Nov 11 11:10:47 +0000 2016
+    :id: 797033828053385217
+    :id_str: '797033828053385217'
+    :text: "@gabibarbozag @terra_ajuda vai pra @locaweb pois o serviço e o atendimento
+      deles é simplesmente impecável"
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions:
+      - :screen_name: gabibarbozag
+        :name: "Ariana da Silva \U0001F451"
+        :id: 215418222
+        :id_str: '215418222'
+        :indices:
+        - 0
+        - 13
+      - :screen_name: terra_ajuda
+        :name: Terra Ajuda
+        :id: 472175891
+        :id_str: '472175891'
+        :indices:
+        - 14
+        - 26
+      - :screen_name: locaweb
+        :name: Locaweb
+        :id: 15020362
+        :id_str: '15020362'
+        :indices:
+        - 35
+        - 43
+      :urls: []
+    :metadata:
+      :iso_language_code: pt
+      :result_type: recent
+    :source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter
+      for Android</a>
+    :in_reply_to_status_id: 797031513552523264
+    :in_reply_to_status_id_str: '797031513552523264'
+    :in_reply_to_user_id: 215418222
+    :in_reply_to_user_id_str: '215418222'
+    :in_reply_to_screen_name: gabibarbozag
+    :user:
+      :id: 164515206
+      :id_str: '164515206'
+      :name: Albert Paixão
+      :screen_name: eualbertpaixao
+      :location: ''
+      :description: Produtor & Compositor
+      :url: https://t.co/BTG0eiAm4n
+      :entities:
+        :url:
+          :urls:
+          - :url: https://t.co/BTG0eiAm4n
+            :expanded_url: http://albertpaixao.com.br
+            :display_url: albertpaixao.com.br
+            :indices:
+            - 0
+            - 23
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 453
+      :friends_count: 313
+      :listed_count: 8
+      :created_at: Fri Jul 09 02:10:45 +0000 2010
+      :favourites_count: 4289
+      :utc_offset: -7200
+      :time_zone: Brasilia
+      :geo_enabled: true
+      :verified: false
+      :statuses_count: 4468
+      :lang: en
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: '131516'
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme14/bg.gif
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme14/bg.gif
+      :profile_background_tile: true
+      :profile_image_url: http://pbs.twimg.com/profile_images/786621775601958912/YT7cEBOc_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/786621775601958912/YT7cEBOc_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/164515206/1476380403
+      :profile_link_color: 009999
+      :profile_sidebar_border_color: EEEEEE
+      :profile_sidebar_fill_color: EFEFEF
+      :profile_text_color: '333333'
+      :profile_use_background_image: true
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 0
+    :favorite_count: 1
+    :favorited: false
+    :retweeted: false
+    :lang: pt
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Fri Nov 11 10:27:53 +0000 2016
+    :id: 797023030195220480
+    :id_str: '797023030195220480'
+    :text: "@locaweb Gostaria de solução definitiva para o problema recorrente que
+      está DERRUBANDO meu site. HTTP Error 503. The service is unavailable"
+    :truncated: false
+    :entities:
+      :hashtags: []
+      :symbols: []
+      :user_mentions:
+      - :screen_name: locaweb
+        :name: Locaweb
+        :id: 15020362
+        :id_str: '15020362'
+        :indices:
+        - 0
+        - 8
+      :urls: []
+    :metadata:
+      :iso_language_code: pt
+      :result_type: recent
+    :source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 15020362
+    :in_reply_to_user_id_str: '15020362'
+    :in_reply_to_screen_name: locaweb
+    :user:
+      :id: 89474165
+      :id_str: '89474165'
+      :name: Ney Pinheiro
+      :screen_name: NeyPinheiroGO
+      :location: Brasil, Goiás, Goiânia
+      :description: Especialista em Internet, atual gerente de Governo Eletrônico
+        da Secretaria de Gestão e Planejamento do Estado de Goiás - SEGPLAN, selecionado
+        via Meritocracia.
+      :url: http://t.co/6BMSIUxfnx
+      :entities:
+        :url:
+          :urls:
+          - :url: http://t.co/6BMSIUxfnx
+            :expanded_url: http://m.go.gov.br
+            :display_url: m.go.gov.br
+            :indices:
+            - 0
+            - 22
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 276
+      :friends_count: 312
+      :listed_count: 3
+      :created_at: Thu Nov 12 15:54:06 +0000 2009
+      :favourites_count: 1030
+      :utc_offset: -7200
+      :time_zone: Brasilia
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 489
+      :lang: pt
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: 0099B9
+      :profile_background_image_url: http://pbs.twimg.com/profile_background_images/558927003/tuiter2.jpg
+      :profile_background_image_url_https: https://pbs.twimg.com/profile_background_images/558927003/tuiter2.jpg
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/523280377/NEY_normal.jpg
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/523280377/NEY_normal.jpg
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/89474165/1470681705
+      :profile_link_color: 0099B9
+      :profile_sidebar_border_color: EEEEEE
+      :profile_sidebar_fill_color: FFFFFF
+      :profile_text_color: '333333'
+      :profile_use_background_image: true
+      :has_extended_profile: false
+      :default_profile: false
+      :default_profile_image: false
+      :following: false
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 0
+    :favorite_count: 0
+    :favorited: false
+    :retweeted: false
+    :lang: pt
